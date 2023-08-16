@@ -134,7 +134,7 @@ home_banner:
   # Home banner custom font
   custom_font:
     # Whether to enable custom font
-    enable: false
+    enable: ture
     # Font family
     family:
     # URL to font CSS file
