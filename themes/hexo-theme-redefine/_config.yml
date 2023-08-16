@@ -145,9 +145,9 @@ home_banner:
     enable: ture
     # Social links
     links:
-      github:  # your GitHub URL
+      github: https://github.com/sdliiy123/blog # your GitHub URL
       instagram: # your Instagram URL
-      zhihu:  # your ZhiHu URL
+      zhihu: https://www.zhihu.com/people/30-74-32-46-22 # your ZhiHu URL
       twitter:  # your twitter URL
       email:  2041785420@qq.com # your email
       # ...... # you can add more
