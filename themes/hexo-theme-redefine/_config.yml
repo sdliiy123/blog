@@ -10,7 +10,7 @@
 # BASIC INFORMATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 info:
   # Site title
-  title: Mezya's blog
+  title: Mezya's Home Pages
   # Author name
   author: Mezya_s
   # Site URL
@@ -106,7 +106,7 @@ home_banner:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title: Mzaya's blog
+  title: Mezya's blog
   # Home banner subtitle
   subtitle:
     text: [] # subtitle text, array
