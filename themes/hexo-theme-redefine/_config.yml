@@ -23,7 +23,7 @@ defaults:
   # Favicon
   favicon: /images/redefine-favicon.svg
   # Site logo
-  logo:
+  logo: /https://c-ssl.dtstatic.com/uploads/blog/202104/04/20210404233432_2302a.thumb.1000_0.jpeg
   # Site avatar
   avatar: /images/redefine-avatar.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
