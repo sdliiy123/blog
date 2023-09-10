@@ -23,9 +23,9 @@ defaults:
   # Favicon
   favicon: /images/redefine-favicon.svg
   # Site logo
-  logo: https://gitee.com/mez11/111/raw/master/img/%E5%96%9C%E7%BE%8A%E7%BE%8A.jpg
+  logo:
   # Site avatar
-  avatar: /images/redefine-avatar.svg
+  avatar: /images/jianghuchuan.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
