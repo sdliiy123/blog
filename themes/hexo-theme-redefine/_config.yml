@@ -23,7 +23,7 @@ defaults:
   # Favicon
   favicon: /images/redefine-favicon.svg
   # Site logo
-  logo:
+  logo: /images/lanyangyang.ico
   # Site avatar
   avatar: /images/jianghuchuan.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
