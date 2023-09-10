@@ -21,7 +21,7 @@ info:
 # IMAGE CONFIGURATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  favicon: /images/jianghuchuan.jpg
   # Site logo
   logo: /images/jianghuchuan.jpg
   # Site avatar
