@@ -174,7 +174,8 @@ navbar:
       icon: fa-regular fa-house # can be empty
 
     Music:
-      path: https://ld.sqlmy.cc/
+      path: https://music.sqlmy.cc/
+      icon: fa-solid fa-music
     # Archives:
     #   path: /archives
     #   icon: fa-regular fa-archive # can be empty
