@@ -169,11 +169,11 @@ navbar:
     transparency: 35 #percent (10-99)
   # Navbar links
   links:
-    ome:
+    Home:
       path: https://ld.sqlmy.cc/
       icon: fa-regular fa-house # can be empty
-  link1:
-    11ome:
+
+    Music:
       path: https://ld.sqlmy.cc/
     # Archives:
     #   path: /archives
