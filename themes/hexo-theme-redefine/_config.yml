@@ -185,10 +185,10 @@ navbar:
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
-    Links:
-      music:
-        path: https://music.sqlmy.cc/
-        icon: fa-regular fa-house
+  Links:
+    music:
+      path: https://music.sqlmy.cc/
+      icon: fa-regular fa-house
 
     #   submenus:
     #     Link1: /link1
