@@ -170,7 +170,7 @@ navbar:
   # Navbar links
   links:
     Home:
-      path: /
+      path: https://ld.sqlmy.cc/
       icon: fa-regular fa-house # can be empty
     # Archives:
     #   path: /archives
@@ -192,10 +192,6 @@ navbar:
     #     Link2: /link2
     #     Link3: /link3
     # ...... # you can add more
-  link1:
-    Music:
-      path:
-      icon:
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
     # Whether to enable
