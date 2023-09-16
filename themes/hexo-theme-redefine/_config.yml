@@ -172,6 +172,11 @@ navbar:
     Home:
       path: /
       icon: fa-regular fa-house # can be empty
+navbar:
+  links:
+    Music: # 一级菜单栏名称
+      path: / # 网址，可以为相对路径或者绝对路径
+      icon: fa-regular fa-house # Fontawesome图标名称（可选）
     # Archives:
     #   path: /archives
     #   icon: fa-regular fa-archive # can be empty
@@ -185,11 +190,8 @@ navbar:
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
-  Links:
-    Music:
-      path: https://music.sqlmy.cc/
-      icon: fa-regular fa-house
-
+    # Links:
+    #   icon: fa-regular fa-link
     #   submenus:
     #     Link1: /link1
     #     Link2: /link2
