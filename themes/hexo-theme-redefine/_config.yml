@@ -176,6 +176,11 @@ navbar:
     Music:
       path: https://music.sqlmy.cc/
       icon: fa-solid fa-music
+      navbar:
+
+    Friends: #取名随意
+      icon: fa-solid fa-link #图标
+      path: /links/
     # Archives:
     #   path: /archives
     #   icon: fa-regular fa-archive # can be empty
@@ -355,7 +360,7 @@ inject:
   # Whether to enable inject
   enable: false
   # Inject custom head html code
-  head:
+  hea【d:
     -
     -
   # Inject custom footer html code
@@ -394,7 +399,7 @@ plugins:
 # PAGE TEMPLATES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 page_templates:
   # Friend Links page column number
-  friends_column: 2
+  friends_column: 3
   # Tags page style
   tags_style: blur # blur, cloud
 # PAGE TEMPLATES <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
