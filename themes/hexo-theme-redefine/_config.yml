@@ -161,7 +161,7 @@ home_banner:
 # NAVIGATION BAR >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 navbar:
   # Auto hide navbar
-  auto_hide: ture
+  auto_hide: false
   # Navbar background color
   color:
     left: "#f78736" #left side
@@ -185,8 +185,11 @@ navbar:
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
-    # Links:
-    #   icon: fa-regular fa-link
+    Links:
+      music:
+        path: https://music.sqlmy.cc/
+        icon: fa-regular fa-house
+
     #   submenus:
     #     Link1: /link1
     #     Link2: /link2
