@@ -161,7 +161,7 @@ home_banner:
 # NAVIGATION BAR >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 navbar:
   # Auto hide navbar
-  auto_hide: false
+  auto_hide: flase
   # Navbar background color
   color:
     left: "#f78736" #left side
@@ -172,11 +172,6 @@ navbar:
     Home:
       path: /
       icon: fa-regular fa-house # can be empty
-
-  link1:
-    Music: # 一级菜单栏名称
-      path: / # 网址，可以为相对路径或者绝对路径
-      icon: fa-regular fa-house # Fontawesome图标名称（可选）
     # Archives:
     #   path: /archives
     #   icon: fa-regular fa-archive # can be empty
@@ -197,10 +192,14 @@ navbar:
     #     Link2: /link2
     #     Link3: /link3
     # ...... # you can add more
+  link1:
+    Music:
+      path:
+      icon:
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
     # Whether to enable
-    enable: false
+    enable: ture
     # Preload search data when the page loads
     preload: true
 # NAVIGATION BAR <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
