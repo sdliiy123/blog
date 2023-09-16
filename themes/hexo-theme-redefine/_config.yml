@@ -186,7 +186,7 @@ navbar:
     #     Blog: https://ohevan.com
     #     Friends: /friends
   Links:
-    music:
+    Music:
       path: https://music.sqlmy.cc/
       icon: fa-regular fa-house
 
