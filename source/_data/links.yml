@@ -5,7 +5,7 @@
     - name: lniosy.com
       link: https://lniosy.com
       description:
-      avatar: 
+      avatar:
       thumbnail: https://img1.imgtp.com/2023/06/19/Jegvz84P.png # has_thumbnail 为 true 时才需要
 
 - links_category: Normal
