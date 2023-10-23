@@ -170,11 +170,11 @@ navbar:
   # Navbar links
   links:
     Home:
-      path: https://ld.sqlmy.cc/
+      path: https://blog.mezya.cn/
       icon: fa-regular fa-house # can be empty
 
     Music:
-      path: https://music.sqlmy.cc/
+      path: https://music.mezya.cn/
       icon: fa-solid fa-music
       navbar:
 
